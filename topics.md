@@ -131,6 +131,7 @@
 
 ## others 
 
+- [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 - [zhaoky/flqin](https://github.com/zhaoky/flqin) - 👻👻 web前端工程师简历
 - [DaoChen6/BingPic](https://github.com/DaoChen6/BingPic) - 
 - [LuckyZmj/LuckyBlog](https://github.com/LuckyZmj/LuckyBlog) - 基于Hexo+Matery的LuckyBlog开源博客搭建教程，演示站点：www.luckyzmj.cn
