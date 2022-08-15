@@ -7,6 +7,8 @@
 
 - [Batchfile](#batchfile)
 - [C#](#c#)
+- [C++](#c++)
+- [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
@@ -29,6 +31,15 @@
 - [insoxin/China-Telecom-Helper](https://github.com/insoxin/China-Telecom-Helper) - 中国电信助手,白嫖年入保底256+话费 .每月金豆领取(lv6,1000金豆),每日签到(随机金豆),每日喂食宠物.每日登录奖励领取(5金豆),查看我的云盘(10金豆),翻牌 (10金豆),查看我的订单 (5金豆),打开消息 (100金豆),当日分享 (50金豆),浏览生活频道 (5金豆),查看我的金豆 (5金豆),关注直播 (5金豆),观看直播15s (5金豆),打开消息 (100金豆),答问卷
 - [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
+
+## C++ 
+
+- [Maplespe/explorerTool](https://github.com/Maplespe/explorerTool) - Custom Windows Explorer background image
+- [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+## Dockerfile 
+
+- [stilleshan/subconverter](https://github.com/stilleshan/subconverter) - 科学上网订阅转换托管服务 docker 版,已去除自动选择url-test以解决连接数爆涨问题.提供免费托管服务.
 
 ## EJS 
 
@@ -83,6 +94,7 @@
 
 ## Python 
 
+- [wzdnzd/ssr-checkin](https://github.com/wzdnzd/ssr-checkin) - 机场自动签到脚本
 - [DaoChen6/BingPic](https://github.com/DaoChen6/BingPic) - 
 - [ITJoker233/BingPicApi](https://github.com/ITJoker233/BingPicApi) - Bing 每日图片 API
 - [YuSitong1999/BilibiliMemory](https://github.com/YuSitong1999/BilibiliMemory) - 获取在 哔哩哔哩 收藏夹中收藏的视频， 保存到本地磁盘，避免线上视频被删除
