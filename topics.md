@@ -34,6 +34,7 @@
 - [python3](#python3)
 - [rest-api](#rest-api)
 - [serverless](#serverless)
+- [shell](#shell)
 - [telegram](#telegram)
 - [vue](#vue)
 
@@ -131,6 +132,9 @@
 
 ## others 
 
+- [stilleshan/subconverter](https://github.com/stilleshan/subconverter) - 科学上网订阅转换托管服务 docker 版,已去除自动选择url-test以解决连接数爆涨问题.提供免费托管服务.
+- [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+- [wzdnzd/ssr-checkin](https://github.com/wzdnzd/ssr-checkin) - 机场自动签到脚本
 - [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 - [zhaoky/flqin](https://github.com/zhaoky/flqin) - 👻👻 web前端工程师简历
 - [DaoChen6/BingPic](https://github.com/DaoChen6/BingPic) - 
@@ -196,6 +200,10 @@
 
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】
+
+## shell 
+
+- [Maplespe/explorerTool](https://github.com/Maplespe/explorerTool) - Custom Windows Explorer background image
 
 ## telegram 
 
