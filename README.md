@@ -6,6 +6,7 @@
 ## Contents
 
 - [Batchfile](#batchfile)
+- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [Dockerfile](#dockerfile)
@@ -25,6 +26,10 @@
 ## Batchfile 
 
 - [badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip) - 查找适合自己当前网络环境的优选cloudflare anycast IP
+
+## C 
+
+- [MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM) - PC版网易云客户端插件管理器
 
 ## C# # 
 
