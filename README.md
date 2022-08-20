@@ -95,7 +95,7 @@
 
 ## Python 
 
-- [wzdnzd/ssr-checkin](https://github.com/wzdnzd/ssr-checkin) - 机场自动签到脚本
+- [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
 - [DaoChen6/BingPic](https://github.com/DaoChen6/BingPic) - 
 - [ITJoker233/BingPicApi](https://github.com/ITJoker233/BingPicApi) - Bing 每日图片 API
 - [YuSitong1999/BilibiliMemory](https://github.com/YuSitong1999/BilibiliMemory) - 获取在 哔哩哔哩 收藏夹中收藏的视频， 保存到本地磁盘，避免线上视频被删除
