@@ -63,6 +63,7 @@
 
 ## JavaScript 
 
+- [Lhcfl/Q2TG-mini](https://github.com/Lhcfl/Q2TG-mini) - 短小简洁的qq-&gt;tg转发bot
 - [zhaoky/flqin](https://github.com/zhaoky/flqin) - 👻👻 web前端工程师简历
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 - [ant-motion/landing-umi-example](https://github.com/ant-motion/landing-umi-example) - 
