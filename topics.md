@@ -132,6 +132,9 @@
 
 ## others 
 
+- [gdtool/fanyi_bot](https://github.com/gdtool/fanyi_bot) - 🤖 Telegram 上的谷歌翻译机器人，为全世界语言提供中文翻译。
+- [gdtool/douyin-hot-hub](https://github.com/gdtool/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
+- [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [Lhcfl/Q2TG-mini](https://github.com/Lhcfl/Q2TG-mini) - 短小简洁的qq-&gt;tg转发bot
 - [MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM) - PC版网易云客户端插件管理器
 - [stilleshan/subconverter](https://github.com/stilleshan/subconverter) - 科学上网订阅转换托管服务 docker 版,已去除自动选择url-test以解决连接数爆涨问题.提供免费托管服务.
@@ -146,7 +149,6 @@
 - [Cluas/189checkin](https://github.com/Cluas/189checkin) - 天翼云自动签到
 - [guguliu/Hexo-butterfly-demo](https://github.com/guguliu/Hexo-butterfly-demo) - my blog demo  https://guguge.top
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
-- [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
 - [mx-space/mx-web-yun](https://github.com/mx-space/mx-web-yun) - ☁️ A fast & light & lovely theme for  Mix Space. 一个对可爱自以为是的前端风格。
 - [badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip) - 查找适合自己当前网络环境的优选cloudflare anycast IP
