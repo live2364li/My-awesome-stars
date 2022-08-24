@@ -63,13 +63,13 @@
 
 ## JavaScript 
 
+- [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [Lhcfl/Q2TG-mini](https://github.com/Lhcfl/Q2TG-mini) - 短小简洁的qq-&gt;tg转发bot
 - [zhaoky/flqin](https://github.com/zhaoky/flqin) - 👻👻 web前端工程师简历
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 - [ant-motion/landing-umi-example](https://github.com/ant-motion/landing-umi-example) - 
 - [HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
-- [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [Ice-Hazymoon/hugo-theme-luna](https://github.com/Ice-Hazymoon/hugo-theme-luna) - A simple, performance-first, SEO-friendly Hugo theme / 一个轻量，快速，SEO 友好的 Hugo 主题
 - [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端，增加近百条远程配置及更多自定义功能！
 - [foldn/Actions](https://github.com/foldn/Actions) - 用于自动化处理白嫖epic免费游戏
@@ -96,6 +96,8 @@
 
 ## Python 
 
+- [gdtool/fanyi_bot](https://github.com/gdtool/fanyi_bot) - 🤖 Telegram 上的谷歌翻译机器人，为全世界语言提供中文翻译。
+- [gdtool/douyin-hot-hub](https://github.com/gdtool/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
 - [DaoChen6/BingPic](https://github.com/DaoChen6/BingPic) - 
 - [ITJoker233/BingPicApi](https://github.com/ITJoker233/BingPicApi) - Bing 每日图片 API
