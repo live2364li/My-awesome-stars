@@ -75,7 +75,6 @@
 - [foldn/Actions](https://github.com/foldn/Actions) - 用于自动化处理白嫖epic免费游戏
 - [xyTom/cf-page-func-proxy](https://github.com/xyTom/cf-page-func-proxy) - Use Cloudflare Pages Functions as a reverse proxy with custom domain support.
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
-- [EmiyaTKK/Malio-Theme-for-SSPANEL](https://github.com/EmiyaTKK/Malio-Theme-for-SSPANEL) - 
 - [inu1255/soulsign-chrome](https://github.com/inu1255/soulsign-chrome) - 魂签，一款用于自动签到的chrome插件
 - [zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) - 自用脚本，随缘更新
 - [zizifn/v2ray-heroku](https://github.com/zizifn/v2ray-heroku) - 利用github actions 实现v2ray-heroku的部署，停止，启动，和删除。
