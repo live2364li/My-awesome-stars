@@ -165,7 +165,6 @@
 - [xyTom/cf-page-func-proxy](https://github.com/xyTom/cf-page-func-proxy) - Use Cloudflare Pages Functions as a reverse proxy with custom domain support.
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [reruin/sharelist-heroku](https://github.com/reruin/sharelist-heroku) - 
-- [EmiyaTKK/Malio-Theme-for-SSPANEL](https://github.com/EmiyaTKK/Malio-Theme-for-SSPANEL) - 
 - [Rakau/blockList](https://github.com/Rakau/blockList) - 一些中国域名、Fake News和轮子域名的屏蔽列表
 - [zizifn/v2ray-heroku](https://github.com/zizifn/v2ray-heroku) - 利用github actions 实现v2ray-heroku的部署，停止，启动，和删除。
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
