@@ -124,7 +124,7 @@
 
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - 一个无比简单安全，基于 edge 的 tunnel
+- [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge functions
 
 ## Vue 
 
