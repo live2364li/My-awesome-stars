@@ -158,7 +158,6 @@
 - [alanbobs999/TopFreeProxies](https://github.com/alanbobs999/TopFreeProxies) - 
 - [lucky-ecat/wechat_info_collect](https://github.com/lucky-ecat/wechat_info_collect) - 调查取证 | 针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等
 - [xMistt/DeviceAuthGenerator](https://github.com/xMistt/DeviceAuthGenerator) - Program to easily create device auths for use in Epic Games API authentication.
-- [foldn/Actions](https://github.com/foldn/Actions) - 用于自动化处理白嫖epic免费游戏
 - [xyTom/cf-page-func-proxy](https://github.com/xyTom/cf-page-func-proxy) - Use Cloudflare Pages Functions as a reverse proxy with custom domain support.
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [reruin/sharelist-heroku](https://github.com/reruin/sharelist-heroku) - 
