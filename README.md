@@ -98,7 +98,6 @@
 - [DaoChen6/BingPic](https://github.com/DaoChen6/BingPic) - 
 - [ITJoker233/BingPicApi](https://github.com/ITJoker233/BingPicApi) - Bing 每日图片 API
 - [YuSitong1999/BilibiliMemory](https://github.com/YuSitong1999/BilibiliMemory) - 获取在 哔哩哔哩 收藏夹中收藏的视频， 保存到本地磁盘，避免线上视频被删除
-- [Cluas/189checkin](https://github.com/Cluas/189checkin) - 天翼云自动签到
 - [aiirobyte/TopFreeProxies](https://github.com/aiirobyte/TopFreeProxies) - 高质量免费节点分享，以及订阅链接收集。
 - [lucky-ecat/wechat_info_collect](https://github.com/lucky-ecat/wechat_info_collect) - 调查取证 | 针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等
 - [xMistt/DeviceAuthGenerator](https://github.com/xMistt/DeviceAuthGenerator) - Program to easily create device auths for use in Epic Games API authentication.
