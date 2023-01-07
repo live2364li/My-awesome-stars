@@ -143,7 +143,6 @@
 - [LuckyZmj/LuckyBlog](https://github.com/LuckyZmj/LuckyBlog) - 基于Hexo+Matery的LuckyBlog开源博客搭建教程，演示站点：www.luckyzmj.cn
 - [ant-motion/landing-umi-example](https://github.com/ant-motion/landing-umi-example) - 
 - [lidaimor/html-css-demo](https://github.com/lidaimor/html-css-demo) - html+css设计的简单静态网站
-- [Cluas/189checkin](https://github.com/Cluas/189checkin) - 天翼云自动签到
 - [guguliu/Hexo-butterfly-demo](https://github.com/guguliu/Hexo-butterfly-demo) - my blog demo  https://guguge.top
 - [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
 - [mx-space/mx-web-yun](https://github.com/mx-space/mx-web-yun) - ☁️ A fast & light & lovely theme for  Mix Space. 一个对可爱自以为是的前端风格。
