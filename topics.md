@@ -36,6 +36,7 @@
 - [shell](#shell)
 - [telegram](#telegram)
 - [vue](#vue)
+- [vuejs](#vuejs)
 
 ## api 
 
@@ -210,6 +211,10 @@
 
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [lhl77/subweb-tsutsu](https://github.com/lhl77/subweb-tsutsu) - 主题商店：https://theme.sub.tsutsu.cc
+
+## vuejs 
+
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - :robot: 字幕组机翻小助手 - 【功能1：翻译字幕文件】 .srt .ass .vtt 【功能2：语音转文字】（拖入视频或音频识别出字幕）  (最新版 v4.1.0 更新时间2021年2月23号) 可配置12家翻译服务商，如谷歌,百度,腾讯,彩云,IBM,Azure,Amazon等（可配置6家语音服务商：阿里云，讯飞，腾讯云，IBM，Azure，Amazon ）优点：1. 可以用多家服务商，
 
 
 ## License
