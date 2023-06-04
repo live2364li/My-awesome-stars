@@ -96,7 +96,6 @@
 - [gdtool/fanyi_bot](https://github.com/gdtool/fanyi_bot) - 🤖 Telegram 上的谷歌翻译机器人，为全世界语言提供中文翻译。
 - [gdtool/douyin-hot-hub](https://github.com/gdtool/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - 自动签到、自动注册、订阅聚合及爬取脚本等
-- [DaoChen6/BingPic](https://github.com/DaoChen6/BingPic) - 
 - [ITJoker233/BingPicApi](https://github.com/ITJoker233/BingPicApi) - Bing 每日图片 API
 - [YuSitong1999/BilibiliMemory](https://github.com/YuSitong1999/BilibiliMemory) - 获取在 哔哩哔哩 收藏夹中收藏的视频， 保存到本地磁盘，避免线上视频被删除
 - [lucky-ecat/wechat_info_collect](https://github.com/lucky-ecat/wechat_info_collect) - 调查取证 | 针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等
