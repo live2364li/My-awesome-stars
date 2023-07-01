@@ -127,7 +127,7 @@
 
 - [mx-space/mx-web-yun](https://github.com/mx-space/mx-web-yun) - ☁️ A fast & light & lovely theme for  Mix Space. 一个对可爱自以为是的前端风格。
 - [lhl77/subweb-tsutsu](https://github.com/lhl77/subweb-tsutsu) - 主题商店：https://theme.sub.tsutsu.cc
-- [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端，增加近百条远程配置及更多自定义功能！
+- [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 
 
