@@ -164,7 +164,6 @@
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
 - [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
 - [huisunan/epic4j](https://github.com/huisunan/epic4j) - 自动领取epic免费游戏,receive free weekly games
-- [King-stark/NvJDCloud](https://github.com/King-stark/NvJDCloud) - Nolanjdc 诺兰面板安装说明
 - [Waikkii/JD_Get_Cookie](https://github.com/Waikkii/JD_Get_Cookie) - PC获取ck工具
 
 ## php 
