@@ -111,7 +111,6 @@
 - [wy580477/Heroku-All-In-One-APP](https://github.com/wy580477/Heroku-All-In-One-APP) - yt-dlp+Aria2+WebUI+Rclone auto-upload+Filebrowser+Xray Vmess proxy& more on Heroku | Heroku 全能 APP
 - [reruin/sharelist-heroku](https://github.com/reruin/sharelist-heroku) - 
 - [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
-- [King-stark/NvJDCloud](https://github.com/King-stark/NvJDCloud) - Nolanjdc 诺兰面板安装说明
 
 ## Stylus 
 
