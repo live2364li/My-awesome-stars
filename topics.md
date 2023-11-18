@@ -34,6 +34,7 @@
 - [rest-api](#rest-api)
 - [serverless](#serverless)
 - [shell](#shell)
+- [sqlite](#sqlite)
 - [telegram](#telegram)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -200,6 +201,10 @@
 ## shell 
 
 - [Maplespe/explorerTool](https://github.com/Maplespe/explorerTool) - Custom Windows Explorer background image
+
+## sqlite 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## telegram 
 
