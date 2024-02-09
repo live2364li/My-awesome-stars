@@ -20,6 +20,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
 - [laravel](#laravel)
+- [low-code](#low-code)
 - [material-design](#material-design)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
@@ -104,6 +105,10 @@
 ## laravel 
 
 - [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
+## low-code 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## material-design 
 
