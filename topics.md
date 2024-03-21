@@ -159,6 +159,7 @@
 - [xMistt/DeviceAuthGenerator](https://github.com/xMistt/DeviceAuthGenerator) - Program to easily create device auths for use in Epic Games API authentication.
 - [xyTom/cf-page-func-proxy](https://github.com/xyTom/cf-page-func-proxy) - Use Cloudflare Pages Functions as a reverse proxy with custom domain support.
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
+- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [reruin/sharelist-heroku](https://github.com/reruin/sharelist-heroku) - 
 - [Rakau/blockList](https://github.com/Rakau/blockList) - 一些中国域名、Fake News和轮子域名的屏蔽列表
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
@@ -182,7 +183,6 @@
 ## python 
 
 - [YuSitong1999/BilibiliMemory](https://github.com/YuSitong1999/BilibiliMemory) - 获取在 哔哩哔哩 收藏夹中收藏的视频， 保存到本地磁盘，避免线上视频被删除
-- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 【重制中 Repairing】短信轰炸 / 短信测压 | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！
 - [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
 
 ## python3 
