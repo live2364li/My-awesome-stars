@@ -74,7 +74,6 @@
 - [xyTom/cf-page-func-proxy](https://github.com/xyTom/cf-page-func-proxy) - Use Cloudflare Pages Functions as a reverse proxy with custom domain support.
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [inu1255/soulsign-chrome](https://github.com/inu1255/soulsign-chrome) - 魂签，一款用于自动签到的chrome插件
-- [zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) - 自用脚本，随缘更新
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
 
 ## Others 
@@ -121,6 +120,7 @@
 
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) - 自用脚本，随缘更新
 
 ## Vue 
 
