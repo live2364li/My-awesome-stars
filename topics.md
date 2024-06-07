@@ -6,10 +6,8 @@
 ## Contents
 
 - [api](#api)
-- [automation](#automation)
 - [awesome](#awesome)
 - [bot](#bot)
-- [chrome-extension](#chrome-extension)
 - [database](#database)
 - [discord](#discord)
 - [docker](#docker)
@@ -44,10 +42,6 @@
 
 - [ITJoker233/BingPicApi](https://github.com/ITJoker233/BingPicApi) - Bing 每日图片 API
 
-## automation 
-
-- [inu1255/soulsign-chrome](https://github.com/inu1255/soulsign-chrome) - 魂签，一款用于自动签到的chrome插件
-
 ## awesome 
 
 - [ChenYFan/blog](https://github.com/ChenYFan/blog) - 陈YFの博客 - 基于GithubAction+Wexagonal自动部署
@@ -57,10 +51,6 @@
 
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
-
-## chrome-extension 
-
-- [inu1255/soulsign-chrome](https://github.com/inu1255/soulsign-chrome) - 魂签，一款用于自动签到的chrome插件
 
 ## database 
 
