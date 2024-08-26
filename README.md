@@ -51,7 +51,7 @@
 
 ## HTML 
 
-- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [LuckyZmj/LuckyBlog](https://github.com/LuckyZmj/LuckyBlog) - 基于Hexo+Matery的LuckyBlog开源博客搭建教程，演示站点：www.luckyzmj.cn
 - [lidaimor/html-css-demo](https://github.com/lidaimor/html-css-demo) - html+css设计的简单静态网站
