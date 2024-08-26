@@ -120,7 +120,7 @@
 
 ## others 
 
-- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 - [gdtool/fanyi_bot](https://github.com/gdtool/fanyi_bot) - 🤖 Telegram 上的谷歌翻译机器人，为全世界语言提供中文翻译。
 - [gdtool/douyin-hot-hub](https://github.com/gdtool/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
 - [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
