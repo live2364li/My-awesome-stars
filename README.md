@@ -64,6 +64,7 @@
 
 - [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [Lhcfl/Q2TG-mini](https://github.com/Lhcfl/Q2TG-mini) - 短小简洁的qq-&gt;tg转发bot
+- [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 - [zhaoky/flqin](https://github.com/zhaoky/flqin) - 👻👻 web前端工程师简历
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 - [ant-motion/landing-umi-example](https://github.com/ant-motion/landing-umi-example) - 
@@ -112,7 +113,6 @@
 
 ## Stylus 
 
-- [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 - [guguliu/Hexo-butterfly-demo](https://github.com/guguliu/Hexo-butterfly-demo) - my blog demo  https://guguge.top
 
 ## TypeScript 
