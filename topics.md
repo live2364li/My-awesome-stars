@@ -8,6 +8,7 @@
 - [api](#api)
 - [awesome](#awesome)
 - [bot](#bot)
+- [clash](#clash)
 - [database](#database)
 - [discord](#discord)
 - [docker](#docker)
@@ -51,6 +52,10 @@
 
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
+
+## clash 
+
+- [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
 
 ## database 
 
@@ -143,7 +148,6 @@
 - [live2364li/dajianxiazaiqi](https://github.com/live2364li/dajianxiazaiqi) - yt-dlp+Aria2+WebUI+Rclone auto-upload+Filebrowser+Xray Vmess proxy& more on Heroku | Heroku 全能 APP
 - [wy580477/Heroku-All-In-One-APP](https://github.com/wy580477/Heroku-All-In-One-APP) - yt-dlp+Aria2+WebUI+Rclone auto-upload+Filebrowser+Xray Vmess proxy& more on Heroku | Heroku 全能 APP
 - [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
-- [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
 - [lucky-ecat/wechat_info_collect](https://github.com/lucky-ecat/wechat_info_collect) - 调查取证 | 针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等
 - [xMistt/DeviceAuthGenerator](https://github.com/xMistt/DeviceAuthGenerator) - Program to easily create device auths for use in Epic Games API authentication.
 - [xyTom/cf-page-func-proxy](https://github.com/xyTom/cf-page-func-proxy) - Use Cloudflare Pages Functions as a reverse proxy with custom domain support.
