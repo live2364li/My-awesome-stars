@@ -138,7 +138,7 @@
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 - [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 - [zhaoky/flqin](https://github.com/zhaoky/flqin) - 👻👻 web前端工程师简历
-- [LuckyZmj/LuckyBlog](https://github.com/LuckyZmj/LuckyBlog) - 基于Hexo+Matery的LuckyBlog开源博客搭建教程，演示站点：www.luckyzmj.cn
+- [mKeySafe/LuckyBlog](https://github.com/mKeySafe/LuckyBlog) - 基于Hexo+Matery的LuckyBlog开源博客搭建教程，演示站点：www.luckyzmj.cn
 - [ant-motion/landing-umi-example](https://github.com/ant-motion/landing-umi-example) - 
 - [lidaimor/html-css-demo](https://github.com/lidaimor/html-css-demo) - html+css设计的简单静态网站
 - [guguliu/Hexo-butterfly-demo](https://github.com/guguliu/Hexo-butterfly-demo) - my blog demo  https://guguge.top
