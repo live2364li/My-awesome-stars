@@ -72,6 +72,7 @@
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [Ice-Hazymoon/hugo-theme-luna](https://github.com/Ice-Hazymoon/hugo-theme-luna) - A simple, performance-first, SEO-friendly Hugo theme / 一个轻量，快速，SEO 友好的 Hugo 主题
 - [xyTom/cf-page-func-proxy](https://github.com/xyTom/cf-page-func-proxy) - Use Cloudflare Pages Functions as a reverse proxy with custom domain support.
+- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
 
@@ -126,7 +127,6 @@
 - [mx-space/mx-web-yun](https://github.com/mx-space/mx-web-yun) - ☁️ A fast & light & lovely theme for  Mix Space. 一个对可爱自以为是的前端风格。
 - [lhl77/subweb-tsutsu](https://github.com/lhl77/subweb-tsutsu) - 主题商店：https://theme.sub.tsutsu.cc
 - [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
-- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 
 
 ## License
