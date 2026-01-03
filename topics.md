@@ -38,6 +38,7 @@
 - [sqlite](#sqlite)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
+- [userscript](#userscript)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [youtube](#youtube)
@@ -216,6 +217,10 @@
 ## telegram-bot 
 
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
+
+## userscript 
+
+- [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 
 ## vue 
 
