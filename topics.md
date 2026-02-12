@@ -39,6 +39,7 @@
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
 - [userscript](#userscript)
+- [v2ray](#v2ray)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [youtube](#youtube)
@@ -161,7 +162,6 @@
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [reruin/sharelist-heroku](https://github.com/reruin/sharelist-heroku) - 
 - [Rakau/blockList](https://github.com/Rakau/blockList) - 一些中国域名、Fake News和轮子域名的屏蔽列表
-- [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
 - [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
 - [QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer) - 🍷 Gracefully claim weekly free games and monthly content from Epic Store.
@@ -221,6 +221,11 @@
 ## userscript 
 
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
+
+## v2ray 
+
+- [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
+- [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
 
 ## vue 
 
