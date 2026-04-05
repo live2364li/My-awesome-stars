@@ -51,7 +51,6 @@
 
 ## HTML 
 
-- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Vercel/Heroku/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [mKeySafe/LuckyBlog](https://github.com/mKeySafe/LuckyBlog) - 基于Hexo+Matery的LuckyBlog开源博客搭建教程，演示站点：www.luckyzmj.cn
 - [lidaimor/html-css-demo](https://github.com/lidaimor/html-css-demo) - html+css设计的简单静态网站
@@ -93,6 +92,7 @@
 
 ## Python 
 
+- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 - [gdtool/fanyi_bot](https://github.com/gdtool/fanyi_bot) - 🤖 Telegram 上的谷歌翻译机器人，为全世界语言提供中文翻译。
 - [gdtool/douyin-hot-hub](https://github.com/gdtool/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
