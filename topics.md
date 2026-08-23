@@ -13,6 +13,7 @@
 - [database](#database)
 - [discord](#discord)
 - [docker](#docker)
+- [dsh-plugin](#dsh-plugin)
 - [electron](#electron)
 - [github](#github)
 - [go](#go)
@@ -79,6 +80,10 @@
 
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) - 自用脚本，随缘更新
+
+## dsh-plugin 
+
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
 
 ## electron 
 
